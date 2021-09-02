@@ -51,4 +51,4 @@ Here's a list of all the supported languages:
 | ko            | Korean        |
 | cmn           | Chinese       |
 | ja            | Japanese      |
-# lang-support
+---------------------------------
